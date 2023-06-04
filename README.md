@@ -226,18 +226,99 @@ The stop process is an important step in the post additive manufacturing process
 ![WhatsApp Image 2023-06-03 at 22 13 54](https://github.com/shoaib3136/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117919362/09464346-54e8-4491-936c-80cfdfd55842)
 ### Explanation:
 
+The part before heat treatment in post additive process is typically in a rough state. The surface finish is often poor and the part may have residual powder or material from the additive manufacturing process. The part may also have internal stresses due to the way it was built. Heat treatment is a process that can be used to improve the surface finish, strength, toughness, and dimensional accuracy of an additively manufactured part.
+
+
+Here are some of the benefits of heat treating an additively manufactured part:
+
+
+Improved surface finish: Heat treatment can help to improve the surface finish of an additively manufactured part by removing any residual powder or material and by smoothing out the surface.
+
+Improved strength: Heat treatment can help to improve the strength of an additively manufactured part by making the material more uniform and by increasing the grain size.
+
+Improved toughness: Heat treatment can help to improve the toughness of an additively manufactured part by making the material more ductile and by reducing the risk of cracking.
+
+Improved dimensional accuracy: Heat treatment can help to improve the dimensional accuracy of an additively manufactured part by reducing the internal stresses and by making the material more uniform.
+
+### Step2:Heat Treatment Oven
+![image](https://github.com/shoaib3136/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117919362/5f331262-2c19-49f7-837a-c3643a451865)
+
+### Explanation:
+A heat treatment oven is a type of industrial oven that is used to heat materials to specific temperatures for the purpose of improving their properties. Heat treatment ovens are used in a variety of industries, including manufacturing, aerospace, and automotive.
+
+
+In the context of post-additive manufacturing, heat treatment ovens are used to improve the properties of additively manufactured parts. Additive manufacturing is a process of creating three-dimensional objects from a digital file by depositing material layer by layer. This process can result in parts with internal stresses and poor surface finish. Heat treatment can help to relieve internal stresses, improve surface finish, and improve the strength, toughness, and hardness of additively manufactured parts.
+
+
+There are a variety of heat treatment ovens available, each with its own advantages and disadvantages. The type of heat treatment oven that is best for a particular application will depend on the size and shape of the parts being heat treated, the desired properties, and the budget.
+
+### Step3:Part in Oven
+![WhatsApp Image 2023-06-04 at 10 03 25](https://github.com/shoaib3136/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117919362/ecf6dc31-874d-41c8-8751-707741e57c9a)
+
+### Explanation:
+When a part is placed in an oven in the post additive process, it is typically done to improve the properties of the part. This can include increasing the strength, toughness, or hardness of the part, or reducing internal stresses. The specific properties that are improved will depend on the type of material that the part is made of and the specific heat treatment that is being used.
+
+The process of heat treating a part in an oven typically involves the following steps:
+
+
+The part is cleaned to remove any residual powder or material from the additive manufacturing process.
+
+The part is placed in the oven and heated to a specific temperature.
+
+The part is held at the desired temperature for a specific amount of time.
+
+The part is allowed to cool slowly.
+
+The specific temperature and time that the part is heated to will depend on the type of material that the part is made of and the specific heat treatment that is being used.
+
+### Step4:Final Part
+![WhatsApp Image 2023-06-04 at 10 08 21](https://github.com/shoaib3136/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117919362/53aa7921-b553-4cdf-a82c-ff633c833885)
+### Explanation:
+The final part in the post-additive process is surface finishing. This is where the 3D printed part is given its final look and feel. Surface finishing can involve a variety of techniques, such as sanding, polishing, painting, and coating. The specific techniques used will depend on the type of material that the part is made of, the desired finish, and the application for the part.
+
+Here are some of the most common surface finishing techniques for 3D printed parts
+
+
+Sanding: Sanding is used to smooth out the surface of the part and remove any rough edges. It can also be used to create a specific finish, such as a matte or glossy finish.
+
+Polishing: Polishing is used to further smooth the surface of the part and make it shiny. It can also be used to remove any scratches or blemishes.
+
+Painting: Painting is used to add color to the part and protect it from the elements. It can also be used to camouflage the part or make it look like another material.
+
+Coating: Coating is used to protect the part from the elements and improve its strength. It can also be used to make the part look more aesthetically pleasing.
+
+### Step5:Start Process
+![image](https://github.com/shoaib3136/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117919362/2d7e020d-4502-4cd7-beb8-a9bf05535df7)
+
+### Explanation:
+
+The start process in post additive process in heat treatment is to clean the 3D printed part. This is important because any dirt or debris on the surface of the part can interfere with the heat treatment process. The part can be cleaned with a variety of methods, such as using a solvent, abrasive, or ultrasonic cleaner.
+
+Once the part is clean, it is important to remove any stresses that may have been introduced during the printing process. This can be done by annealing the part. Annealing is a heat treatment process that involves heating the part to a specific temperature and then cooling it slowly. This process helps to relieve stresses and improve the ductility of the part.
+
+After the part has been annealed, it is ready for the heat treatment process. The specific heat treatment process that is used will depend on the type of material that the part is made of and the desired properties. For example, steel parts that need to be strong and tough may be subjected to a process called quenching. Quenching involves heating the part to a high temperature and then cooling it rapidly in water or oil. This process causes the steel to transform into a hard and tough microstructure.
+
+### Step6:Stop Process
+![WhatsApp Image 2023-06-04 at 10 20 59](https://github.com/shoaib3136/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/117919362/f0883df5-bd59-4668-835b-8cbae5870933)
+
+### Explanation:
+The stop process in post additive process in heat treatment is to cool the part slowly. This is important because rapid cooling can cause the part to develop stresses that can lead to cracking or warping. The part can be cooled slowly by air, water, or oil.
+
+Once the part has cooled, it is ready for use. However, it is important to note that the properties of the part may change over time. For example, steel parts that have been heat treated may become more brittle over time. This is why it is important to inspect the part regularly and replace it if it shows signs of wear or damage.
+
+Here are some of the things to consider when cooling a 3D printed part after heat treatment:
+
+
+The type of material: The type of material that the part is made of will determine the best way to cool it. For example, steel parts should be cooled slowly in oil, while aluminum parts can be cooled quickly in air.
+
+The size of the part: The size of the part will also affect the cooling process. Large parts will take longer to cool than small parts.
+
+The desired properties: The desired properties of the part will also affect the cooling process. For example, if the part needs to be strong and tough, it should be cooled slowly. If the part needs to be ductile, it can be cooled more quickly
 
 
 
 
 
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 
 ### Name: Shaik Shoaib Nawaz
